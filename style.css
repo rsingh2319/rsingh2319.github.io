@@ -1,0 +1,19 @@
+body {
+    background-color: burlywood;
+    color: green;
+    padding: 10px;
+
+}
+
+#picture {
+    float: left;
+}
+
+#description {
+    float: right;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}

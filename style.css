@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+    color: purple;
+    padding: 10px;
+
+}
+
+#picture {
+    float: left;
+}
+
+#description {
+    float: right;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+

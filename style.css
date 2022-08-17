@@ -1,0 +1,24 @@
+body {
+    background-color: pink;
+    color: purple;
+    padding: 10px;
+  
+
+}
+
+p { font-family: Georgia, 'Times New Roman', Times, serif; }
+
+#picture {
+    float: left;
+}
+
+#description { 
+    float: right;
+    
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
